@@ -1,9 +1,0 @@
-c:\users\egehan\documents\visual studio 2015\Projects\Sort_an_Array\Sort_an_Array\bin\Debug\Sort_an_Array.exe.config
-c:\users\egehan\documents\visual studio 2015\Projects\Sort_an_Array\Sort_an_Array\obj\Debug\Sort_an_Array.csprojResolveAssemblyReference.cache
-c:\users\egehan\documents\visual studio 2015\Projects\Sort_an_Array\Sort_an_Array\obj\Debug\Sort_an_Array.Form1.resources
-c:\users\egehan\documents\visual studio 2015\Projects\Sort_an_Array\Sort_an_Array\obj\Debug\Sort_an_Array.Properties.Resources.resources
-c:\users\egehan\documents\visual studio 2015\Projects\Sort_an_Array\Sort_an_Array\obj\Debug\Sort_an_Array.csproj.GenerateResource.Cache
-c:\users\egehan\documents\visual studio 2015\Projects\Sort_an_Array\Sort_an_Array\bin\Debug\Sort_an_Array.exe
-c:\users\egehan\documents\visual studio 2015\Projects\Sort_an_Array\Sort_an_Array\bin\Debug\Sort_an_Array.pdb
-c:\users\egehan\documents\visual studio 2015\Projects\Sort_an_Array\Sort_an_Array\obj\Debug\Sort_an_Array.exe
-c:\users\egehan\documents\visual studio 2015\Projects\Sort_an_Array\Sort_an_Array\obj\Debug\Sort_an_Array.pdb
